@@ -14,6 +14,8 @@ CodePlug για το AnyTone 878UVii και 878UVii+.
 - Αποθηκευστε το RDT σας.
 - Κάντε import το import.lst ή το  import_bonus.lst
 - Αποθηκευστε εκ νέου το RDT.
+- Στο φάκελο images υπάρχουν screenshots από προτεινόμενες ρυθμίσεις.  
+
 
 ## ΠΡΟΣΟΧΗ!!!
 Αν περάσετε το IMPORT_BONUS.LST θα περάσετε μέσα στον ασύρματό σας τα κανάλια PMR (EUR & US), τα κανάλια LPD και τα κανάλια MARINE.  
