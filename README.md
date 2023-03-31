@@ -1,7 +1,7 @@
 # Αnytone 878uv
-CodePlug για το AnyTone 878UVii και 878UVii+.
-Πανελάδική κάλυψη αναμεταδοτών. 
-Περιλαμβάνονται 2 αρχεία εισαγωγής, το IMPORT.LST και το IMPORT_BONUS.LST.
+CodePlug για το AnyTone 878UVii και 878UVii+.  
+Πανελάδική κάλυψη αναμεταδοτών.  
+Περιλαμβάνονται 2 αρχεία εισαγωγής, το IMPORT.LST και το IMPORT_BONUS.LST.  
 
 ## IMPORT.LST
 Περιέχει ψηφιακούς και αναλογικούς πανελλαδικούς αναμεταδότες στα VHF και UHF.
