@@ -1,6 +1,6 @@
 # Αnytone 878uv
 CodePlug για το AnyTone 878UVii και 878UVii+.
-Πανελάδική κάλλυψη αναμεταδοτών. 
+Πανελάδική κάλυψη αναμεταδοτών. 
 Περιλαμβάνονται 2 αρχεία εισαγωγής, το IMPORT.LST και το IMPORT_BONUS.LST.
 
 ## IMPORT.LST
