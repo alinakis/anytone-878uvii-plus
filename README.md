@@ -1,5 +1,5 @@
-# anytone-878uvii-plus
-CodePlug για το AnyTone 878UVii και UVii plus.
+# Αnytone 878uv
+CodePlug για το AnyTone 878UVii και 878UVii+.
 Περιλαμβάνονται 2 αρχεία εισαγωγής, το IMPORT.LST και το IMPORT_BONUS.LST.
 
 ## IMPORT.LST
