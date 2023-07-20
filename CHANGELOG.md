@@ -6,8 +6,12 @@
 ## Πρέπει να γίνει - 20/07/2023
  
 Να ελεγχθούν οι διαδρομές roaming για την ορθότητά τους.
- 
-
+- Athi-Thesalo 202/9
+- Athi-Pirgos 202/9
+- Athi-Samos 202/9
+- Athi-Evros 202/9
+- Athi-Katorg 202/9
+- Athi-Ioannin 202/9
  
 ## [v302.1] - 20/07/2023
 
