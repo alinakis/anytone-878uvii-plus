@@ -27,7 +27,7 @@ CodePlug για το AnyTone 878UVii και 878UVii+.
 Κάνουμε ότι είναι δυνατό για να προσφέρουμε ένα σωστό, ποιοτικό και ενημερωμένο codePlug αλλά δεν φέρουμε καμιά ευθύνη ως προς την εγγύηση του ασυρμάτου, τις εκπομπές, τις λήψεις ή οποιεσδήποτε ποινικές ή αστικές ευθύνες προκύψουν από τη χρήση του συγκεκρμένου CodePlug.
 
 ## Ημερολόγιο Αλλαγών
-Δείτε [εδώ](https://github.com/alinakis/anytone-878ucii-plus/CHANGELOG.md) τις αλλαγές.
+Δείτε [εδώ](https://github.com/alinakis/anytone-878ucii-plus/blob/main/CHANGELOG.md) τις αλλαγές.
 
 ## Credits
 Το codeplug αυτό στηρίχθηκε στην δουλειά του Αλέξανδρου Τσουράπα (SV1RVP) από το [www.rfnews.gr](https://www.rfnews.gr)
